@@ -612,7 +612,7 @@ a:focus {
 .portfolio-wrapper {
     overflow: hidden;
     position: relative !important;
-    cursor: pointer;
+    cursor: move;
 }
 
 .portfolio img {
